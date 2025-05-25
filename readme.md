@@ -1,4 +1,4 @@
-# File Autodelete Utility
+# Picture Autodelete Utility
 
 ## Introduction
 
